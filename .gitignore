@@ -1,0 +1,10 @@
+# Large dataset images - download separately
+supervised_learning/data/
+supervised_learning/data_blur/
+unsupervised_learning/data/images/
+unsupervised_learning/logs/
+*.h5
+*.pkl
+__pycache__/
+.DS_Store
+*.pyc
